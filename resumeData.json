@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Usi Chukwuedu Project",
+    "homepage": ".",
+    "description":"I am a Professional UI/UX Designer ",
+    "description2":"& Web Developer",
+    "image":"profilepic.jpg",
+    "bio":"I am a UI/UX Designer/ Web Developer with a demonstrated skill of producing quality and user-friendly designs. I have contribute to the development, release and maintenance of websites and applications for maximum growth. I’m experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. Well-versed in design standards and user preferences.",
+    "contactmessage":"Contact Us Today",
+    "email": "info@usichukwuedu.com",
+    "phone": "416 000 0000",
+    "project":"https://www.usichukwuedu.com",
+    "address":{
+      "street":"Finch Avenue",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "---"
+    },
+    "website": "https://www.usichukwuedu.com",
+    "resumedownload":"https://www.usichukwuedu.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"---",
+    "education":[
+      {
+        "school":"Don State Technical University",
+        "degree":"Masters in Automated System Information, Processing and Control",
+        "graduated":"JuneApril 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"DICEF DIGITAL ESTATE",
+        "title":"UI/UX DESIGNER AND WEB DEVELOPER ",
+        "years":"Jan 2009 - Present",
+        "description":"Designed responsive themes using Bootstrap, HTML/XHTML, CSS. • Implemented AJAX, XML and JQuery on Front-End to make the web page more dynamic. • Developed dynamic websites and dashboards compatible with multiple browsers using Javascript, Ajax, XML, React, Laravel and other applications. • Implement pixel-perfect websites from wireframes. • Designed Responsive Web applications using WordPress • Created unique spaces for marketing ads within landing pages thereby increasing visitor conversion rates. • Took concepts and produced design mockups and prototypes to strengthen designs, enhance user experiences and improve site interactions. • Conducted unit testing to deliver optimal browser functionality. • Used PHP and MySQL in creating admin automated tools which makes easy add, update, delete of content. • Conceived and designed database tables in MYSQL • Worked in Agile based environment with daily scrum calls and coordination with the offshore team."  },
+      {
+        "company":"DICEF DIGITAL ESTATE",
+        "title":"UI/UX DESIGNER AND WEB DEVELOPER",
+        "years":"Mar 2015 - Dec 2018",
+        "description":"Developed new user-facing features. • Built reusable code and libraries for future use. • Ensured the technical feasibility of UI/UX designs. • Optimized application for maximum speed and scalabilty. • Assured that all user inputs were validated before submitting to back-end. • Collaborated with other team members and stakeholders." }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"90%"
+      },
+      {
+        "name":"REACT",
+        "level":"80%"
+      },
+      {
+        "name":"AJAX",
+        "level":"85%"
+      },
+      {
+        "name":"WORDPRESS",
+        "level":"95%"
+      },
+      {
+        "name":"PHP",
+        "level":"85%"
+      },
+      {
+        "name":"LARAVEL",
+        "level":"80%"
+      },
+      {
+        "name":"MYSQL",
+        "level":"85%"
+      },
+      {
+        "name":"ADOBE PHOTOSHOP",
+        "level":"95%"
+      },
+      {
+        "name":"ADOBE PREMIERE PRO",
+        "level":"70%"
+      },
+      {
+        "name":"ADOBE ILLUSTRATOR",
+        "level":"80%"
+      },
+      {
+        "name":"ADOBE xD",
+        "level":"75%"
+      },
+      {
+        "name":"ADOBE InDESIGN",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian",
+        "category":"Portfolio",
+        "image":"01.jpg",
+        "url":"#"
+      }
+    ]
+  }
+}
